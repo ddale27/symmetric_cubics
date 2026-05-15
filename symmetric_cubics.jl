@@ -37,6 +37,7 @@ for (j,G) in enumerate(groups)
     # Put a description of the group in this directory
     idfile = open(string(groupdir, "/", "group_id"), "w")
     write(idfile, string(group_id, "\n"))
+    write(idfile, string(GAP.Globals.StructureDescription(GAP.Obj(G)), "\n"));
     write(idfile, "Generators:\n")
     [write(idfile, string(gen, "\n")) for gen in gens(G)]
     close(idfile)

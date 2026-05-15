@@ -1,4 +1,5 @@
 GAP: [ 12, 4 ]
+GAP: "D12"
 Generators:
 (1,2)
 (3,5,4)
