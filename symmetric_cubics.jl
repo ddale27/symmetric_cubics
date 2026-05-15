@@ -42,7 +42,7 @@ for (j,G) in enumerate(groups)
     close(idfile)
 
     ## Calculate orbits
-    #orbs = orbits(gset(G, on_indeterminates, M3))
+    orbs = orbits(gset(G, on_indeterminates, M3))
 
     # Get all characters of G
     characters = GAP.Globals.AllHomomorphisms(GAP.Obj(G),GAP.Obj(C))
@@ -57,8 +57,9 @@ for (j,G) in enumerate(groups)
 
         # Take the associated weighted sums
         weighted_sums = Vector{typeof(x)}([])
-        for f in collect(M3)
-            weighted_sum = sum([weights(g)^-1*on_indeterminates(f,g) for g in collect(G)])
+        # We only need to get one sum for each orbit
+        for orb in orbs
+            weighted_sum = sum([weights(g)^-1*on_indeterminates(orb[1],g) for g in collect(G)])
             push!(weighted_sums, weighted_sum)
         end
 
