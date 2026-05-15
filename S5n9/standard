@@ -1,0 +1,10 @@
+Eigenspace of dim 7
+x^3 + y^3 + z^3
+x^2*y + x^2*z + x*y^2 + x*z^2 + y^2*z + y*z^2
+x^2*w + y^2*w + z^2*w
+x*y*z
+x*y*w + x*z*w + y*z*w
+x*w^2 + y*w^2 + z*w^2
+w^3
+Eigenspace of dim 1
+x^2*y - x^2*z - x*y^2 + x*z^2 + y^2*z - y*z^2

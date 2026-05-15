@@ -1,0 +1,24 @@
+Eigenspace of dim 5
+x^3 + y^3 + z^3 + w^3
+x^2*y + x*y^2 + z^2*w + z*w^2
+x^2*z + x*z^2 + y^2*w + y*w^2
+x^2*w + x*w^2 + y^2*z + y*z^2
+x*y*z + x*y*w + x*z*w + y*z*w
+Eigenspace of dim 5
+x^3 - y^3 - z^3 + w^3
+x^2*y - x*y^2 - z^2*w + z*w^2
+x^2*z - x*z^2 - y^2*w + y*w^2
+x^2*w + x*w^2 - y^2*z - y*z^2
+x*y*z - x*y*w - x*z*w + y*z*w
+Eigenspace of dim 5
+x^3 - y^3 + z^3 - w^3
+x^2*y - x*y^2 + z^2*w - z*w^2
+x^2*z + x*z^2 - y^2*w - y*w^2
+x^2*w - x*w^2 - y^2*z + y*z^2
+x*y*z - x*y*w + x*z*w - y*z*w
+Eigenspace of dim 5
+x^3 + y^3 - z^3 - w^3
+x^2*y + x*y^2 - z^2*w - z*w^2
+x^2*z - x*z^2 + y^2*w - y*w^2
+x^2*w - x*w^2 + y^2*z - y*z^2
+x*y*z + x*y*w - x*z*w - y*z*w

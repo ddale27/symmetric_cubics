@@ -1,0 +1,24 @@
+Eigenspace of dim 8
+x^3 + y^3
+x^2*y + x*y^2
+x^2*z + x^2*w + y^2*z + y^2*w
+x*y*z + x*y*w
+x*z^2 + x*w^2 + y*z^2 + y*w^2
+x*z*w + y*z*w
+z^3 + w^3
+z^2*w + z*w^2
+Eigenspace of dim 5
+x^3 - y^3
+x^2*y - x*y^2
+x^2*z + x^2*w - y^2*z - y^2*w
+x*z^2 + x*w^2 - y*z^2 - y*w^2
+x*z*w - y*z*w
+Eigenspace of dim 5
+x^2*z - x^2*w + y^2*z - y^2*w
+x*y*z - x*y*w
+x*z^2 - x*w^2 + y*z^2 - y*w^2
+z^3 - w^3
+z^2*w - z*w^2
+Eigenspace of dim 2
+x^2*z - x^2*w - y^2*z + y^2*w
+x*z^2 - x*w^2 - y*z^2 + y*w^2

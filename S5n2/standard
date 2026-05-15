@@ -1,0 +1,22 @@
+Eigenspace of dim 13
+x^3
+x^2*y
+x^2*z
+x*y^2
+x*y*z
+x*z^2
+x^2*w + x*w^2 - y^2*w - 2*y*z*w - y*w^2 - z^2*w - z*w^2
+x*y*w + y^2*w + y*z*w + y*w^2
+x*z*w + y*z*w + z^2*w + z*w^2
+y^3
+y^2*z
+y*z^2
+z^3
+Eigenspace of dim 7
+x^3 - 6*x*y*w - 6*x*z*w - 6*x*w^2 + y^3 + 3*y^2*z + 3*y*z^2 - 6*y*w^2 + z^3 - 6*z*w^2 - 4*w^3
+x^2*y + 2*x*y*w - y^3 - 2*y^2*z - 2*y^2*w - y*z^2 - 2*y*z*w
+x^2*z + 2*x*z*w - y^2*z - 2*y*z^2 - 2*y*z*w - z^3 - 2*z^2*w
+x^2*w + 2*x*y*w + 2*x*z*w + 3*x*w^2 + y^2*w + 2*y*z*w + 3*y*w^2 + z^2*w + 3*z*w^2 + 2*w^3
+x*y^2 + y^3 + y^2*z + 2*y^2*w
+x*y*z + y^2*z + y*z^2 + 2*y*z*w
+x*z^2 + y*z^2 + z^3 + 2*z^2*w

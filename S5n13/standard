@@ -1,0 +1,6 @@
+Eigenspace of dim 2
+6*x^2*y + 6*x*y^2 + 12*x*y*w + 6*y^2*w + 12*y*z*w + 6*y*w^2 + 6*z^2*w + 6*z*w^2
+6*x^2*z + 6*x^2*w + 12*x*y*z + 6*x*z^2 + 12*x*z*w + 6*x*w^2 + 6*y^2*z + 6*y*z^2
+Eigenspace of dim 2
+2*x^3 + 3*x^2*y + 6*x^2*z + 17*x*y^2 + 8*x*y*z + 2*x*y*w - 6*x*z^2 - 8*x*z*w - 12*x*w^2 + 8*y^3 + 12*y^2*z + 7*y^2*w - 2*y*z*w - 7*y*w^2 - 2*z^3 - 3*z^2*w - 17*z*w^2 - 8*w^3
+2*x^3 + 3*x^2*y + 6*x^2*w - 7*x*y^2 - 4*x*y*z + 2*x*y*w + 4*x*z*w + 6*x*w^2 - 4*y^3 - 6*y^2*z - 5*y^2*w - 6*y*z^2 - 2*y*z*w + 5*y*w^2 - 2*z^3 - 3*z^2*w + 7*z*w^2 + 4*w^3

@@ -1,0 +1,22 @@
+Eigenspace of dim 10
+x^3 + w^3
+x^2*y + z*w^2
+x^2*z + y*w^2
+x^2*w + x*w^2
+x*y^2 + z^2*w
+x*y*z + y*z*w
+x*y*w + x*z*w
+x*z^2 + y^2*w
+y^3 + z^3
+y^2*z + y*z^2
+Eigenspace of dim 10
+x^3 - w^3
+x^2*y - z*w^2
+x^2*z - y*w^2
+x^2*w - x*w^2
+x*y^2 - z^2*w
+x*y*z - y*z*w
+x*y*w - x*z*w
+x*z^2 - y^2*w
+y^3 - z^3
+y^2*z - y*z^2
